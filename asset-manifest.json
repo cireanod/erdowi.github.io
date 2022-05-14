@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/app/static/css/main.9b842e4b.css",
+    "main.js": "/app/static/js/main.ea0eeddf.js",
+    "static/js/787.a30afd7d.chunk.js": "/app/static/js/787.a30afd7d.chunk.js",
+    "static/media/Flamante-Round-Book-FFP.ttf": "/app/static/media/Flamante-Round-Book-FFP.2bf5813c47c242c78524.ttf",
+    "static/media/Wolf Sans Regular.ttf": "/app/static/media/Wolf Sans Regular.939dc4c61a24851f70c4.ttf",
+    "index.html": "/app/index.html",
+    "main.9b842e4b.css.map": "/app/static/css/main.9b842e4b.css.map",
+    "main.ea0eeddf.js.map": "/app/static/js/main.ea0eeddf.js.map",
+    "787.a30afd7d.chunk.js.map": "/app/static/js/787.a30afd7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b842e4b.css",
+    "static/js/main.ea0eeddf.js"
+  ]
+}
